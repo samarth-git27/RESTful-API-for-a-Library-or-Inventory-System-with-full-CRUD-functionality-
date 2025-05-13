@@ -1,0 +1,8 @@
+mkdir library-api
+cd library-api
+npm init -y
+npm install express mongoose dotenv nodemon
+In package.json, add this script:
+"scripts": {
+  "start": "nodemon server.js"
+}
