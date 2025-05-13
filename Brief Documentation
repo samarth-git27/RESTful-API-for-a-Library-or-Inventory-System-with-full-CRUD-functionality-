@@ -1,0 +1,15 @@
+# Library RESTful API
+
+A simple CRUD API built using Express.js and MongoDB for managing books in a library.
+
+## Features
+
+- Create, Read, Update, Delete (CRUD) Books
+- MongoDB (Mongoose) for database
+- RESTful routing with Express.js
+
+## Getting Started
+
+### Install Dependencies
+```bash
+npm install
